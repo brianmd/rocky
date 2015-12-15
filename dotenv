@@ -1,0 +1,5 @@
+export BASE_URL=http://localhost:3000/punchout/
+export BROKER_IDENTITY=coupa-t
+export COMPANY_IDENTITY=companyid
+export COMPANY_SECRET=companysecret
+
